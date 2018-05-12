@@ -1,0 +1,40 @@
+_repo: Bylow-Hill_14575
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Yohn, F. C. (Frederick Coffay)
+    alias: Yohn, Frederick Coffay
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '26457'
+    url: http://www.gutenberg.org/2009/agents/26457
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: This 1902 novel, set in a small New England town in the late nineteenth
+  century, focuses on two families, the Byingtons and the Winslows. The families'
+  younger generations must face the challenges of a new century while navigating the
+  currents of love and loss.
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+title: Bylow Hill
+url: http://www.gutenberg.org/ebooks/14575
