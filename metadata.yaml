@@ -25,6 +25,8 @@ description: This 1902 novel, set in a small New England town in the late ninete
   century, focuses on two families, the Byingtons and the Winslows. The families'
   younger generations must face the challenges of a new century while navigating the
   currents of love and loss.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14575#Bylow-Hill
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
 identifiers:
